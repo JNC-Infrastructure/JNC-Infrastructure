@@ -1,5 +1,14 @@
-## Hi there 👋
+# Johnny Network Consulting (JNC)
+![JNC Puzzle Globe Banner](link-to-your-banner-image)
 
+### Institutional Infrastructure & Sovereign Network Architecture
+Currently overseeing the **JNC-FL-2026 Rollout**: A 1,000-node bare-metal ingestion network deployment across the Florida Tier-1 backbone.
+
+**Primary Directives:**
+* Hardware-level path integrity validation (AS7018/AS701).
+* Deployment of unencapsulated egress nodes for financial data utility.
+* Implementation of Zero-Trust Architecture (ZTA) for edge-compute clusters.
+ 
 <!--
 **JNC-Infrastructure/JNC-Infrastructure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
