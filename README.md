@@ -1,5 +1,5 @@
 # Johnny Network Consulting (JNC)
-![JNC Puzzle Globe Banner](Untitled design (1).png)
+![JNC Puzzle Globe Banner](https://github.com/JNC-Infrastructure/JNC-Infrastructure/blob/cb9dadca29842dbd344238993156b6a407da8e55/Untitled%20design%20(1).png)
 
 ### Institutional Infrastructure & Sovereign Network Architecture
 Currently overseeing the **JNC-FL-2026 Rollout**: A 1,000-node bare-metal ingestion network deployment across the Florida Tier-1 backbone.
