@@ -1,4 +1,5 @@
 # JNC Infrastructure Architect | Fortified Entity
+[JNC Infrastructure Banner](https://github.com/JNC-Infrastructure/JNC-Infrastructure/blob/main/JNC-Architecture-Identity-Banner.png?raw=true)
 
 ###  Modern Infrastructure & Bare-Metal Specialist
 Building high-velocity, resilient systems with a security-first methodology. My environment is cryptographically hardened to ensure the integrity of every deployment.
