@@ -30,6 +30,7 @@ Building high-velocity, resilient systems with a security-first methodology. My 
 - **GitHub:** [JNC-Infrastructure](https://github.com/JNC-Infrastructure)
 - **Email:** `264203987+JNC-Infrastructure@users.noreply.github.com`
 <!--
+![JNC Infrastructure Banner](https://github.com/JNC-Infrastructure/JNC-Infrastructure/blob/main/JNC-Architecture-Identity-Banner.png?raw=true)
 **JNC-Infrastructure/JNC-Infrastructure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
