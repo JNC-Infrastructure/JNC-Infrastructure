@@ -1,14 +1,34 @@
-# Johnny Network Consulting (JNC)
-![JNC Puzzle Globe Banner](https://github.com/JNC-Infrastructure/JNC-Infrastructure/blob/cb9dadca29842dbd344238993156b6a407da8e55/Untitled%20design%20(1).png)
+# JNC Infrastructure Architect | Fortified Entity
 
-### Institutional Infrastructure & Sovereign Network Architecture
-Currently overseeing the **JNC-FL-2026 Rollout**: A 1,000-node bare-metal ingestion network deployment across the Florida Tier-1 backbone.
+###  Modern Infrastructure & Bare-Metal Specialist
+Building high-velocity, resilient systems with a security-first methodology. My environment is cryptographically hardened to ensure the integrity of every deployment.
 
-**Primary Directives:**
-* Hardware-level path integrity validation (AS7018/AS701).
-* Deployment of unencapsulated egress nodes for financial data utility.
-* Implementation of Zero-Trust Architecture (ZTA) for edge-compute clusters.
- 
+---
+
+### Security Posture (Fortified Status)
+- **Verified Provenance:** All commits are signed with a 4096-bit RSA GPG Key.
+- **Secure Access:** Authentication via ED25519 Elliptic Curve SSH keys.
+- **OPSEC:** Identity masking active to prevent metadata leakage.
+- **Vigilant Mode:** Only cryptographically verified contributions are accepted into this workspace.
+
+---
+
+### Technical Stack
+- **Provisioning:** Bare-metal, Hivelocity API, Terraform
+- **Networking:** VPN Tunneling, Load Balancing, Network Hardening
+- **Security:** GnuPG, SSH-Agent management, Secret Encryption
+
+---
+
+### Current Focus
+- Architecting high-availability infrastructure for enterprise-grade performance.
+- Optimizing CI/CD pipelines with signed commit enforcement.
+
+---
+
+### Connectivity
+- **GitHub:** [JNC-Infrastructure](https://github.com/JNC-Infrastructure)
+- **Email:** `264203987+JNC-Infrastructure@users.noreply.github.com`
 <!--
 **JNC-Infrastructure/JNC-Infrastructure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
